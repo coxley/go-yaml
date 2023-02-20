@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/goccy/go-yaml/ast"
-	"github.com/goccy/go-yaml/token"
+	"github.com/coxley/go-yaml/ast"
+	"github.com/coxley/go-yaml/token"
 )
 
 // Property additional property set for each the token

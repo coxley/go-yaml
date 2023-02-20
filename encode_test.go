@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/goccy/go-yaml"
-	"github.com/goccy/go-yaml/ast"
+	"github.com/coxley/go-yaml"
+	"github.com/coxley/go-yaml/ast"
 )
 
 var zero = 0

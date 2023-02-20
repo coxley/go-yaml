@@ -1,9 +1,9 @@
 # YAML support for the Go language
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/goccy/go-yaml)](https://pkg.go.dev/github.com/goccy/go-yaml)
-![Go](https://github.com/goccy/go-yaml/workflows/Go/badge.svg)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/coxley/go-yaml)](https://pkg.go.dev/github.com/coxley/go-yaml)
+![Go](https://github.com/coxley/go-yaml/workflows/Go/badge.svg)
 [![codecov](https://codecov.io/gh/goccy/go-yaml/branch/master/graph/badge.svg)](https://codecov.io/gh/goccy/go-yaml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/goccy/go-yaml)](https://goreportcard.com/report/github.com/goccy/go-yaml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/coxley/go-yaml)](https://goreportcard.com/report/github.com/coxley/go-yaml)
 
 <img width="300px" src="https://user-images.githubusercontent.com/209884/67159116-64d94b80-f37b-11e9-9b28-f8379636a43c.png"></img>
 
@@ -27,7 +27,7 @@ As of this writing, there already exists a de facto standard library for YAML pr
 # Installation
 
 ```sh
-go get -u github.com/goccy/go-yaml
+go get -u github.com/coxley/go-yaml
 ```
 
 # Synopsis
@@ -312,7 +312,7 @@ package main
 import (
   "fmt"
 
-  "github.com/goccy/go-yaml"
+  "github.com/coxley/go-yaml"
 )
 
 func main() {
@@ -358,7 +358,7 @@ print yaml file with color
 ### Installation
 
 ```sh
-go install github.com/goccy/go-yaml/cmd/ycat@latest
+go install github.com/coxley/go-yaml/cmd/ycat@latest
 ```
 
 # Looking for Sponsors

@@ -7,9 +7,9 @@ import (
 	"os"
 
 	"github.com/fatih/color"
-	"github.com/goccy/go-yaml"
-	"github.com/goccy/go-yaml/lexer"
-	"github.com/goccy/go-yaml/printer"
+	"github.com/coxley/go-yaml"
+	"github.com/coxley/go-yaml/lexer"
+	"github.com/coxley/go-yaml/printer"
 	"github.com/mattn/go-colorable"
 )
 

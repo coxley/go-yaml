@@ -3,8 +3,8 @@ package lexer
 import (
 	"io"
 
-	"github.com/goccy/go-yaml/scanner"
-	"github.com/goccy/go-yaml/token"
+	"github.com/coxley/go-yaml/scanner"
+	"github.com/coxley/go-yaml/token"
 )
 
 // Tokenize split to token instances from string

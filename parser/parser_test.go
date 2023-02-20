@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/goccy/go-yaml/ast"
-	"github.com/goccy/go-yaml/lexer"
-	"github.com/goccy/go-yaml/parser"
-	"github.com/goccy/go-yaml/token"
+	"github.com/coxley/go-yaml/ast"
+	"github.com/coxley/go-yaml/lexer"
+	"github.com/coxley/go-yaml/parser"
+	"github.com/coxley/go-yaml/token"
 )
 
 func TestParser(t *testing.T) {
